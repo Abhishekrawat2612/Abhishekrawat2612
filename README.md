@@ -16,7 +16,7 @@ Programmer | Learner </h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭  I’m currently learning **Full Stack Web Development course** at **Masai School**
+- 🔭  I’m currently learning **Full Stack Web Development course**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
